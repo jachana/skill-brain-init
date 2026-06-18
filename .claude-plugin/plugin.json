@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "brain-init",
+  "description": "Register the current repository (or one the user names) with a central Obsidian \"second brain\" vault",
+  "author": {
+    "name": "jachana"
+  },
+  "repository": "https://github.com/jachana/skill-brain-init",
+  "license": "MIT"
+}
